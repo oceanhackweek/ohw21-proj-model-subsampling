@@ -1,0 +1,11 @@
+name: ohw21
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - s3fs
+  - xarray
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyterlab
