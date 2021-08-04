@@ -5,7 +5,11 @@ dependencies:
   - python
   - s3fs
   - xarray
+  - netCDF4
+  - bottleneck
+  - h5netcdf
   - numpy
+  - pooch
   - matplotlib
   - scipy
   - jupyterlab
