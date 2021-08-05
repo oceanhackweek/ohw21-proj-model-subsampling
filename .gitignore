@@ -1,5 +1,4 @@
-# Data files
-LLC4320_pre-SWOT_ACC_SMST_20111221.nc
+LLC4320_pre-SWOT_ACC_SMST*.nc
 *.mat
 
 # Byte-compiled / optimized / DLL files
@@ -131,3 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
