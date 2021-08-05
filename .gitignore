@@ -1,4 +1,5 @@
 LLC4320_pre-SWOT_ACC_SMST*.nc
+*.nfs
 *.mat
 
 # Byte-compiled / optimized / DLL files
