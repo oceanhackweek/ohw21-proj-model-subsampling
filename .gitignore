@@ -1,5 +1,5 @@
-# Data files 
-*.nc
+# Data files
+LLC4320_pre-SWOT_ACC_SMST_20111221.nc
 *.mat
 
 # Byte-compiled / optimized / DLL files
